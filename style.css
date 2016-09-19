@@ -1,0 +1,14 @@
+ul
+{
+list-style-type: none;
+}
+.btn-primary{
+  padding: 10px 20px;
+}
+.jumbotron{
+  font-weight: bold;
+  color: deeppink;
+}
+.btn-success{
+  width: 40%;
+}
